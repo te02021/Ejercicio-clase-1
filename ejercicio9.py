@@ -37,6 +37,9 @@ sueldo_basico -= sueldo_basico*0.01  #gremio
 #Mostrar
 print("")
 
+#Ejercicio 9 modificado
+
+
 
 
 
