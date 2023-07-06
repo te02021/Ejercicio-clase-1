@@ -11,3 +11,4 @@ empatados = int(input("Ingrese el numero de partidos empatados: ")) * 1
 puntaje_total = ganados + perdidos + empatados
 
 print("El ABC club tiene: ", puntaje_total, "puntos en el torneo apertura")
+#probando modificando un archivo

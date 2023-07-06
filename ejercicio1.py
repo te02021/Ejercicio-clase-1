@@ -12,9 +12,5 @@ distancia = velocidad*tiempo
 
 print("La distancia es: ", distancia)
 
-"""
-Ejercicio 2
-Se necesita obtener el promedio simple de un estudiante a partir de sus tres notas parciales N1, N2 y N3.
 
-"""
 
